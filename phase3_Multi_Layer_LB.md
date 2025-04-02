@@ -64,11 +64,4 @@
 
 ---
 
-## 🎯 **Next Steps?**
-
-- Want to add **CloudFront CDN** for caching? 📦
-- Need **WAF (Web Application Firewall)** setup for security? 🔐
-- Should I explain **ALB vs NLB** choices? 🤔
-
-Let me know which part to expand! 🚀
 
