@@ -48,5 +48,5 @@
 ✅ **Cost visibility**: Track spikes in real-time
 ✅ **Automated savings**: RIs reduce bills by up to **75%**
 
-💡 **Need detailed SNS alert setup or custom metrics? Ask away!** 📊🚀
+
 
